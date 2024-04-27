@@ -20,8 +20,5 @@ jobs:
         gem install bundler
         bundle install
 
-    - name: Install minitest gem
-      run: gem install minitest
-
     - name: Run tests
       run: ruby -Ilib:test *_test.rb
