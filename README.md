@@ -1,3 +1,5 @@
+[![Ruby Testing Workflow](https://github.com/bnelford/ruby-hello-world/actions/workflows/ruby.yml/badge.svg)](https://github.com/bnelford/ruby-hello-world/actions/workflows/ruby.yml)
+
 # Hello World
 
 The classical introductory exercise. Just say "Hello, World!".
